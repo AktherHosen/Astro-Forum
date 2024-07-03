@@ -1,5 +1,7 @@
-# B9A6-Retro-Forum
+# Astri-Forum
+
 # Live site - https://astroforum.netlify.app/
+
 # API
 
 LatestPosts: - https://openapi.programming-hero.com/api/retro-forum/latest-posts
