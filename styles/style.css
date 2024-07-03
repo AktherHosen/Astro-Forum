@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap");
+
+body {
+  font-family: "Mulish", sans-serif;
+}
+.banner-container {
+  background-image: url(../images/bgbanner.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: 20px;
+}
