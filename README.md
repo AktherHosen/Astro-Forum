@@ -1,4 +1,4 @@
-# Astri-Forum
+# Astro-Forum
 
 # Live site - https://astroforum.netlify.app/
 
